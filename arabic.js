@@ -83,25 +83,25 @@ const translations = {
             footer_copyright: "كل الحقوق محفوظة."
         },
         contact: {
-            title: "Contact us",
-            field_name: "Name",
-            placeholder_name: "Please enter your name",
-            field_organisation: "Organisation",
-            placeholder_organisation: "Please enter the name of your Organisation",
-            field_email: "Email",
-            placeholder_email: "Please enter your email",
-            field_phone: "Phone",
-            placeholder_phone: "Please enter your phone",
-            field_message: "Message",
-            placeholder_message: "Message for us",
-            button_send: "Send message",
-            note: '* These fields are required. By submitting you agree to the <a href="%s" target="_blank">Terms of Use</a>.'
+            title: "تواصل معني",
+            field_name: "اسم",
+            placeholder_name: "ضع اسمك هنا",
+            field_organisation: "منظمة",
+            placeholder_organisation: "ضع اسم منظمتك هنا",
+            field_email: "البريد الإلكتروني",
+            placeholder_email: "ضع بريدك الإلكتروني
+            field_phone: "الهاتف",
+            placeholder_phone: "ضع رقم الهاتف",
+            field_message: "رسالة",
+            placeholder_message: "رسالة من اجلنا",
+            button_send: "ارسل الرسالة",
+            note: '* هذه الحقول مطلوبة. بإرسالك فإنك توافق على <a href="%s" target="_blank">شروط الاستخدام</a>.'
         },
         hosting: {
-            title: "Minecraft Hosting",
-            subtitle: "2GB RAM free Minecraft Hosting. 100% NVMe SSD storage, 24/7 up, no stupid queues, no player limits, no plugin limits, any Minecraft version you like! Get started now, for free!",
-            plan_traffic: "Unlimited traffic",
-            plan_ddos: "Layer 7 DDoS Protection"
+            title: "خادم ميانكرافت",
+            subtitle: "2GB RAM مجانا خادم ميانكرافت. مساحة تخزين NVMe SSD 100٪ ، على مدار 24 ساعة طوال أيام الأسبوع ، لا قوائم انتظار غبية ، لا حدود للاعب ، لا حدود للمكونات الإضافية ، أي إصدار ميانكرافت تريده! ابدأ الآن مجانًا!",
+            plan_traffic: "مرور غير محدود",
+            plan_ddos: "حماية الطبقة DDoS 7"
         },
         order: {
             title: "Order",
