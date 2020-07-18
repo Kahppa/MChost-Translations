@@ -16,7 +16,7 @@ const translations = {
             plan_bungee_title: "حزمة Bungee",
             plan_custom_title: "مخصصة",
             plan_free_plugins: "بلوقنات لا نهائية",
-            plan_free_players: "لاعبين لا نهئيين,
+            plan_free_players: "لاعبين لا نهئيين",
             plan_free_nolimit: "لا حدود لعدد اللاعبين والبلوقنات",
             plan_free_online: "يعمل 24/7, لا طوابير",
             plan_dedicated_ports: "%s منافذ مخصصة",
@@ -89,7 +89,7 @@ const translations = {
             field_organisation: "منظمة",
             placeholder_organisation: "ضع اسم منظمتك هنا",
             field_email: "البريد الإلكتروني",
-            placeholder_email: "ضع بريدك الإلكتروني
+            placeholder_email: "ضع بريدك الإلكتروني",
             field_phone: "الهاتف",
             placeholder_phone: "ضع رقم الهاتف",
             field_message: "رسالة",
