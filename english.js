@@ -109,7 +109,7 @@ const translations = {
             placeholder_name: "Please enter your name",
             field_email: "Email",
             placeholder_email: "Please enter your email",
-            field_pp_email: "PayPal E-mail",
+            field_pp_email: "Billing E-mail",
             field_more: "Additional Instructions",
             button: "Request Order",
             note: '* These fields are required. By submitting you agree to the <a href="%s" target="_blank">Terms of Use</a>.'
