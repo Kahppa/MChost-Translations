@@ -150,7 +150,7 @@ const translations = {
             short_error_new: 'An unclaimed URL specially for you: <a href="%s">%s</a>'
         },
         gdpr: {
-            text: "Our website is using cookies. Please read our Privacy Policy to find out more.",
+            text: "We use cookies to make your browsing experience more convenient and personal. In some cases, they are essential to making the site work properly. For more information, refer to MChost's privacy policy.",
             accept: "Accept",
             privacy: "Privacy Policy"
         },
